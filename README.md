@@ -22,7 +22,7 @@ INSTRUCTIONS FOR USE:
 
 - Enter the locations to scrape in the "LOCATIONS.txt" file, to do this, search for the locations on instagram from the web browser and copy their link (example of two locations in the file).
 
-<img width="1728" alt="Captura de pantalla 2022-01-13 a las 14 40 50" src="https://user-images.githubusercontent.com/90764257/149351583-1c6f9221-cb29-437e-abf9-18d358f79053.png">
+<img width="1728" alt="Captura de pantalla 2022-01-13 a las 20 30 39" src="https://user-images.githubusercontent.com/90764257/149404743-d4c0360d-582f-4b1d-86fe-651816cb0da3.png">
 <img width="1728" alt="Captura de pantalla 2022-01-13 a las 14 41 28" src="https://user-images.githubusercontent.com/90764257/149351613-aae2e246-6299-43fd-b4f7-9f4bfef673d9.png">
 
 
