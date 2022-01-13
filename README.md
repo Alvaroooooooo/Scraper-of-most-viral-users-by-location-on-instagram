@@ -23,4 +23,4 @@ Instructions for use:
 <img width="1728" alt="Captura de pantalla 2022-01-13 a las 14 41 28" src="https://user-images.githubusercontent.com/90764257/149351613-aae2e246-6299-43fd-b4f7-9f4bfef673d9.png">
 
 
-- Run the software.
+- Run "Main.py".
