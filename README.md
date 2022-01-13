@@ -13,7 +13,7 @@ PACKAGES:
 - datetime
 - xlswriter
 - time
-- io
+- os
 
 INSTRUCTIONS FOR USE:
 - Save chromedriver in the software folder.
