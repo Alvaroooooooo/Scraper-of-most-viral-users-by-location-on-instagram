@@ -2,11 +2,11 @@
 It is software designed to extract the latest most viral posts from different locations in order to obtain quantitative data for later analysis and use in marketing plans.
 Despite being designed to obtain data from hotels and analyze the competition as well as potential triggers of giveaway chains on Instagram or other social networks, it can be used in any other sector.
 
-Pre requirements:
+PRE REQUIREMENTS:
 - Install "Google Chrome" since it is the browser used in the software.
 - Download "Chromedriver": https://chromedriver.chromium.org/downloads
 
-Packages:
+PACKAGES:
 - selenium
 - pathlib
 - WriteExcel
@@ -15,7 +15,7 @@ Packages:
 - time
 - io
 
-Instructions for use:
+INSTRUCTIONS FOR USE:
 - Save chromedriver in the software folder.
 
 - Enter a username and password in the "ACCOUNT.txt" file (It is recommended to use an account exclusively created for this software).
@@ -27,3 +27,6 @@ Instructions for use:
 
 
 - Run "Main.py".
+
+OUTPUT:
+Excel document with columns: "user", "likes of the viralized publication", "followers" and "followed"
