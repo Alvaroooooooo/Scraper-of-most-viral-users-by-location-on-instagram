@@ -1,6 +1,6 @@
 # InstagramScraper
-It is software designed to extract the latest most viral posts from different locations in order to obtain quantitative data for later analysis and use in marketing plans.
-Despite being designed to obtain data from hotels and analyze the competition as well as potential triggers of giveaway chains on Instagram or other social networks, it can be used in any other sector.
+That software is designed to extract the latest most viral posts from different locations in order to obtain quantitative data for analysis and to use in marketing plans.
+Despite being designed to obtain data from hotels and analyze the competition as well as potential triggers of giveaway chains on Instagram, it can be used in any other sector.
 
 PRE REQUIREMENTS:
 - Install "Google Chrome" since it is the browser used in the software.
