@@ -4,6 +4,7 @@ Despite being designed to obtain data from hotels and analyze the competition as
 
 Pre requirements:
 - Install "Google Chrome" since it is the browser used in the software.
+- Download "Chromedriver": https://chromedriver.chromium.org/downloads
 
 Packages:
 - selenium
@@ -15,6 +16,8 @@ Packages:
 - you
 
 Instructions for use:
+- Save chromedriver in the software folder.
+
 - Enter a username and password in the "ACCOUNT.txt" file (It is recommended to use an account exclusively created for this software).
 
 - Enter the locations to scrape in the "LOCATIONS.txt" file, to do this, search for the locations on instagram from the web browser and copy their link (example of two locations in the file).
