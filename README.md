@@ -9,7 +9,6 @@ PRE REQUIREMENTS:
 PACKAGES:
 - selenium
 - pathlib
-- WriteExcel
 - datetime
 - xlswriter
 - time
